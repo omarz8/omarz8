@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Hi, I'm Omar Zarate
+## I'm Omar Zarate
 ## Full Stack Developer 💻
 
 [![](https://img.shields.io/badge/LinkedIn-omarzarate-blue)](https://www.linkedin.com/in/omarzaratefullstack/)
@@ -23,6 +23,7 @@ const OmarZ = {
     learning: ["graphQL", "apollo client", "mongodb"],
 }
 ```
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omarz8&show_icons=true&theme=merko)](https://github.com/omarz8/github-readme-stats)
 
 ---
 ⭐️ From [@omarz8](https://github.com/omarz8)
