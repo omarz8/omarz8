@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**omarz8/omarz8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+## Hi, I'm Omar Zarate
+## Full Stack Developer 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/LinkedIn-omarzarate-blue)](https://www.linkedin.com/in/omarzaratefullstack/)
+[![](https://img.shields.io/badge/Gmail-8omarzarate%40gmail.com-red)](mailto:8omarzarate@gmail.com)
+
+
+### <img src="https://media.giphy.com/media/l0NwI55hcEtEVXV4I/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const OmarZ = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "philosophy", "business", "ux"],
+    technologies:{
+        backEnd: ["nodejs", "express", "sequelize"],
+        fronEnd: ["react", "html", "css", "bootstrap", "material ui"],
+        database: ["postgres"],
+    },
+    learning: ["graphQL", "apollo client", "mongodb"],
+}
+```
+
+---
+⭐️ From [@omarz8](https://github.com/omarz8)
