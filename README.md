@@ -16,11 +16,11 @@ const OmarZ = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "philosophy", "business", "ux"],
     technologies:{
-        backEnd: ["nodejs", "express", "sequelize"],
-        fronEnd: ["react", "html", "css", "bootstrap", "material ui"],
-        database: ["postgres"],
+        backEnd: ["nodejs", "express", "graphQL", "Apollo server", "Prisma"],
+        fronEnd: ["react", "html", "css", "bootstrap", "material ui", "Apollo Client"],
+        database: ["postgresql"],
     },
-    learning: ["graphQL", "apollo client", "mongodb"],
+    learning: [...],
 }
 ```
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omarz8&show_icons=true&theme=merko)](https://github.com/omarz8/github-readme-stats)
